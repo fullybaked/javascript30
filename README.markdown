@@ -4,7 +4,7 @@
 
 Best viewed in the latest Chrome. Many of the exercises work in the latest
 Fireforx and Safari, but some don't quite work.  Notably the Drum kit (Day 1),
-does not work correctly.
+does not work correctly in Safari.
 
 - [Day 1 - Drum Kit](https://github.com/fullybaked/javascript30/tree/master/day1)
 
