@@ -7,5 +7,6 @@ Fireforx and Safari, but some don't quite work.  Notably the Drum kit (Day 1),
 does not work correctly in Safari.
 
 - [Day 1 - Drum Kit](https://github.com/fullybaked/javascript30/tree/master/day1)
+- [Day 2 - JS Clock](https://github.com/fullybaked/javascript30/tree/master/day2)
 
 
