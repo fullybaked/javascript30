@@ -8,5 +8,6 @@ does not work correctly in Safari.
 
 - [Day 1 - Drum Kit](https://github.com/fullybaked/javascript30/tree/master/day1)
 - [Day 2 - JS Clock](https://github.com/fullybaked/javascript30/tree/master/day2)
+- [Day 3 - CSS Variabls & JS](https://github.com/fullybaked/javascript30/tree/master/day3)
 
 
